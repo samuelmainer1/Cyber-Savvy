@@ -1,0 +1,4 @@
+[admin-auth] Failed login for user "definitely-wrong" from ::1
+ ⚠ Found a change in next.config.js. Restarting the server to apply the changes...
+[admin-auth] Failed login for user "Cybersavvy" from ::1
+[admin-auth] Successful login for user "Cybersavvy" from ::1

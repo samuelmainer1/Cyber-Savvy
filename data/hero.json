@@ -1,0 +1,41 @@
+[
+  {
+    "id": "1",
+    "eyebrow": "Full-Stack Development",
+    "title": "Elite Full-Stack Software,",
+    "highlight": "Custom Systems & Growth",
+    "description": "From web applications and APIs to bespoke ERPs, we engineer secure software that solves real operational problems and scales with your business.",
+    "image": "/images/hero/full-stack.jpg",
+    "alt": "Developer working on a full-stack software application",
+    "primaryLabel": "Request Free Project Quote",
+    "primaryHref": "/contact",
+    "secondaryLabel": "Explore Client Results",
+    "secondaryHref": "/case-studies"
+  },
+  {
+    "id": "2",
+    "eyebrow": "Digital Marketing & SEO",
+    "title": "Become the Brand Your",
+    "highlight": "Customers Find First",
+    "description": "Technical SEO, content engines, and paid acquisition that turn Google search into qualified inbound leads.",
+    "image": "/images/hero/digital-marketing.jpg",
+    "alt": "Professional analyzing digital marketing performance on a laptop",
+    "primaryLabel": "Get a Free Growth Audit",
+    "primaryHref": "/contact",
+    "secondaryLabel": "Explore SEO Services",
+    "secondaryHref": "/services/digital-marketing"
+  },
+  {
+    "id": "3",
+    "eyebrow": "Managed IT & Cybersecurity",
+    "title": "Protect Your Operations with",
+    "highlight": "Reliable IT & Security",
+    "description": "Secure infrastructure, cloud operations, rapid IT support, and proactive cybersecurity protection designed around your company.",
+    "image": "/images/hero/cybersecurity.jpg",
+    "alt": "Cybersecurity professional monitoring secure network systems",
+    "primaryLabel": "Request Security Assessment",
+    "primaryHref": "/contact",
+    "secondaryLabel": "Explore IT Services",
+    "secondaryHref": "/services/managed-it-cybersecurity"
+  }
+]

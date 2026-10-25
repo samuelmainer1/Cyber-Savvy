@@ -1,0 +1,248 @@
+
+> mycoding-folder@1.0.0 dev
+> next dev
+
+  ▲ Next.js 14.2.35
+  - Local:        http://localhost:3000
+  - Environments: .env.local
+
+ ✓ Starting...
+ ✓ Ready in 2.3s
+ ○ Compiling / ...
+ ✓ Compiled / in 3.4s (575 modules)
+ GET / 200 in 3771ms
+ ○ Compiling /team ...
+ ✓ Compiled /src/middleware in 3.8s (651 modules)
+ GET /team 200 in 4329ms
+ ○ Compiling /testimonials ...
+ ✓ Compiled /testimonials in 608ms (323 modules)
+ ✓ Compiled in 382ms (272 modules)
+ GET /api/admin/notifications 200 in 1759ms
+ GET /testimonials 200 in 1305ms
+ ○ Compiling /docs ...
+ ✓ Compiled /docs in 649ms (599 modules)
+ GET /docs 200 in 939ms
+ ○ Compiling /updates ...
+ ✓ Compiled /updates in 635ms (601 modules)
+ GET /updates 200 in 869ms
+ ○ Compiling /features ...
+ ✓ Compiled /features in 575ms (603 modules)
+ GET /features 200 in 744ms
+ ○ Compiling /sitemap.xml ...
+ ✓ Compiled /sitemap.xml in 749ms (377 modules)
+ GET /sitemap.xml 200 in 1557ms
+ ✓ Compiled /case-studies/[slug] in 377ms (656 modules)
+ GET /case-studies/apex-logistics-ltd 200 in 834ms
+ GET /case-studies/apex-logistics-ltd 200 in 56ms
+ GET /api/admin/notifications 200 in 22ms
+ GET /api/admin/notifications 200 in 16ms
+ GET /api/admin/notifications 200 in 19ms
+ GET /api/admin/notifications 200 in 19ms
+ GET /api/admin/notifications 200 in 16ms
+ GET /api/admin/notifications 200 in 13ms
+ GET /api/admin/notifications 200 in 13ms
+ ○ Compiling /contact ...
+ ✓ Compiled /contact in 567ms (591 modules)
+ ✓ Compiled /api/content/form-options in 208ms (306 modules)
+ GET /api/content/form-options 200 in 364ms
+ GET /api/content/form-options 200 in 16ms
+ ✓ Compiled /services/website-maintenance-support in 215ms (582 modules)
+ GET /api/admin/notifications 200 in 29ms
+ ✓ Compiled /services/full-stack-development in 233ms (584 modules)
+ ✓ Compiled /work in 238ms (579 modules)
+ GET /api/admin/notifications 200 in 15ms
+ ✓ Compiled /case-studies/[slug] in 141ms (310 modules)
+ ✓ Compiled / in 144ms (329 modules)
+ ✓ Compiled /api/content/services in 256ms (331 modules)
+ ✓ Compiled (333 modules)
+ GET /api/content/services 200 in 464ms
+ GET /api/content/hero 200 in 469ms
+ GET /api/content/services 200 in 26ms
+ GET /api/content/hero 200 in 33ms
+ ✓ Compiled /about in 284ms (610 modules)
+ GET /api/admin/notifications 200 in 23ms
+ ✓ Compiled /contact in 123ms (339 modules)
+ ✓ Compiled /api/content/form-options in 186ms (341 modules)
+ GET /api/content/form-options 200 in 228ms
+ GET /api/content/form-options 200 in 16ms
+ ✓ Compiled /faq in 324ms (617 modules)
+ ✓ Compiled /services/development-process in 294ms (606 modules)
+ ✓ Compiled /case-studies in 267ms (593 modules)
+ GET /api/admin/notifications 200 in 24ms
+ GET /api/content/form-options 200 in 22ms
+ GET /api/content/form-options 200 in 13ms
+ GET /api/admin/notifications 200 in 39ms
+ ✓ Compiled /about in 158ms (321 modules)
+ ✓ Compiled /services/managed-it-cybersecurity in 359ms (600 modules)
+ ✓ Compiled /services/development-process in 83ms (318 modules)
+ ✓ Compiled /team in 156ms (320 modules)
+ GET /api/admin/notifications 200 in 23ms
+ ✓ Compiled /contact in 97ms (325 modules)
+ GET /contact 200 in 128ms
+ ✓ Compiled /api/content/form-options in 101ms (327 modules)
+ GET /api/content/form-options 200 in 152ms
+ GET /api/content/form-options 200 in 13ms
+ ✓ Compiled /terms in 275ms (606 modules)
+ GET /api/admin/notifications 200 in 19ms
+ ✓ Compiled /privacy in 210ms (587 modules)
+ GET /api/content/form-options 200 in 36ms
+ GET /api/content/form-options 200 in 17ms
+ ✓ Compiled /testimonials in 148ms (312 modules)
+ GET /api/admin/notifications 200 in 28ms
+ ✓ Compiled /team in 122ms (327 modules)
+ GET /api/admin/notifications 200 in 25ms
+ GET /api/admin/notifications 200 in 18ms
+ GET /api/admin/notifications 200 in 16ms
+ GET /api/admin/notifications 200 in 28ms
+ GET /api/admin/notifications 200 in 17ms
+ GET /api/admin/notifications 200 in 80ms
+ GET /api/admin/notifications 200 in 27ms
+ GET /api/admin/notifications 200 in 16ms
+ GET /api/admin/notifications 200 in 21ms
+ GET /api/admin/notifications 200 in 24ms
+ GET /api/admin/notifications 200 in 16ms
+ GET /api/admin/notifications 200 in 22ms
+ GET /api/admin/notifications 200 in 17ms
+ GET /api/admin/notifications 200 in 26ms
+ GET /api/admin/notifications 200 in 24ms
+ GET /api/admin/notifications 200 in 18ms
+ GET /api/admin/notifications 200 in 17ms
+ GET /api/admin/notifications 200 in 15ms
+ GET /api/admin/notifications 200 in 22ms
+ GET /api/admin/notifications 200 in 19ms
+ GET /api/admin/notifications 200 in 23ms
+ GET /api/admin/notifications 200 in 16ms
+ GET /api/admin/notifications 200 in 20ms
+ GET /api/admin/notifications 200 in 23ms
+ GET /api/admin/notifications 200 in 22ms
+ GET /api/admin/notifications 200 in 22ms
+ GET /api/admin/notifications 200 in 21ms
+ GET /api/admin/notifications 200 in 15ms
+ GET /api/admin/notifications 200 in 20ms
+ GET /api/admin/notifications 200 in 20ms
+ GET /api/admin/notifications 200 in 9ms
+ GET /api/admin/notifications 200 in 12ms
+ GET /api/admin/notifications 200 in 12ms
+ GET /api/admin/notifications 200 in 14ms
+ GET /api/admin/notifications 200 in 22ms
+ ○ Compiling / ...
+ ✓ Compiled / in 514ms (334 modules)
+ ✓ Compiled /api/content/services in 431ms (336 modules)
+ ✓ Compiled (338 modules)
+ GET /api/content/hero 200 in 709ms
+ GET /api/content/services 200 in 708ms
+ GET /api/content/hero 200 in 41ms
+ GET /api/content/services 200 in 43ms
+ GET / 200 in 225ms
+ GET /api/content/hero 200 in 32ms
+ GET /api/content/services 200 in 34ms
+ GET /api/content/hero 200 in 19ms
+ GET /api/content/services 200 in 24ms
+ GET /api/admin/notifications 200 in 19ms
+ GET /api/admin/notifications 200 in 17ms
+ GET /api/admin/notifications 200 in 20ms
+ GET /api/admin/notifications 200 in 32ms
+ GET /api/admin/notifications 200 in 20ms
+ GET /api/admin/notifications 200 in 18ms
+ GET /api/admin/notifications 200 in 16ms
+ GET /api/admin/notifications 200 in 29ms
+ GET /api/admin/notifications 200 in 14ms
+ GET /api/admin/notifications 200 in 23ms
+ GET / 200 in 72ms
+ GET /api/content/hero 200 in 32ms
+ GET /api/content/services 200 in 34ms
+ GET /api/content/hero 200 in 34ms
+ GET /api/content/services 200 in 33ms
+ GET /api/admin/notifications 200 in 30ms
+ GET /api/admin/notifications 200 in 13ms
+ GET /api/admin/notifications 200 in 16ms
+ GET /api/admin/notifications 200 in 20ms
+ GET /api/admin/notifications 200 in 15ms
+ ✓ Compiled in 1497ms (620 modules)
+ ✓ Compiled in 592ms (620 modules)
+ ✓ Compiled in 408ms (620 modules)
+ ✓ Compiled in 411ms (620 modules)
+ ✓ Compiled in 355ms (620 modules)
+ GET /api/admin/notifications 200 in 30ms
+ ✓ Compiled in 252ms (291 modules)
+ GET /api/admin/notifications 200 in 20ms
+ ✓ Compiled in 369ms (291 modules)
+ ✓ Compiled in 331ms (291 modules)
+ ✓ Compiled in 277ms (291 modules)
+ GET /api/admin/notifications 200 in 21ms
+ GET /api/admin/notifications 200 in 24ms
+ ✓ Compiled in 1034ms (620 modules)
+ ✓ Compiled in 548ms (620 modules)
+ GET / 200 in 134ms
+ ✓ Compiled /search in 433ms (613 modules)
+ GET /search?q=logistics 200 in 578ms
+ GET /api/admin/notifications 200 in 28ms
+ GET /api/admin/notifications 200 in 17ms
+ ✓ Compiled /contact in 258ms (334 modules)
+ ✓ Compiled /api/content/form-options in 270ms (336 modules)
+ GET /api/content/form-options 200 in 338ms
+ GET /api/content/form-options 200 in 14ms
+ ✓ Compiled /pricing in 469ms (631 modules)
+ GET /api/admin/notifications 200 in 29ms
+ GET /api/admin/notifications 200 in 19ms
+ GET /api/admin/notifications 200 in 24ms
+ GET /api/admin/notifications 200 in 16ms
+ GET /api/admin/notifications 200 in 52ms
+ GET /api/admin/notifications 200 in 23ms
+ GET /api/admin/notifications 200 in 23ms
+ GET /api/admin/notifications 200 in 19ms
+ GET /api/admin/notifications 200 in 20ms
+ GET /api/admin/notifications 200 in 15ms
+ GET /api/admin/notifications 200 in 23ms
+ GET /api/admin/notifications 200 in 17ms
+ GET /api/admin/notifications 200 in 23ms
+ GET /api/admin/notifications 200 in 96ms
+ GET /api/admin/notifications 200 in 22ms
+ GET /api/admin/notifications 200 in 22ms
+ GET /api/admin/notifications 200 in 44ms
+ GET /api/admin/notifications 200 in 70ms
+ GET /api/admin/notifications 200 in 29ms
+ GET /api/admin/notifications 200 in 57ms
+ GET /api/admin/notifications 200 in 26ms
+ GET /api/admin/notifications 200 in 21ms
+ GET /api/admin/notifications 200 in 24ms
+ GET /api/admin/notifications 200 in 20ms
+ GET /api/admin/notifications 200 in 15ms
+ GET /api/admin/notifications 200 in 21ms
+ GET /api/admin/notifications 200 in 28ms
+ GET /api/admin/notifications 200 in 37ms
+ GET /api/admin/notifications 200 in 25ms
+ GET /api/admin/notifications 200 in 52ms
+ GET /api/admin/notifications 200 in 17ms
+ GET /api/admin/notifications 200 in 26ms
+ GET /api/admin/notifications 200 in 85ms
+ GET /api/admin/notifications 200 in 43ms
+ GET /api/admin/notifications 200 in 30ms
+ GET /api/admin/notifications 200 in 21ms
+ GET /api/admin/notifications 200 in 20ms
+ GET /api/admin/notifications 200 in 23ms
+ GET /api/admin/notifications 200 in 21ms
+ GET /api/admin/notifications 200 in 24ms
+ GET /api/admin/notifications 200 in 30ms
+ GET /api/admin/notifications 200 in 21ms
+ GET /api/admin/notifications 200 in 25ms
+ GET /api/admin/notifications 200 in 39ms
+ GET /api/admin/notifications 200 in 22ms
+ GET /api/admin/notifications 200 in 24ms
+ GET /api/admin/notifications 200 in 20ms
+ GET /api/admin/notifications 200 in 20ms
+ GET /api/admin/notifications 200 in 18ms
+ GET /api/admin/notifications 200 in 25ms
+ GET /api/admin/notifications 200 in 20ms
+ GET /api/admin/notifications 200 in 19ms
+ GET /api/admin/notifications 200 in 23ms
+ GET /api/admin/notifications 200 in 23ms
+ GET /api/admin/notifications 200 in 19ms
+ GET /api/admin/notifications 200 in 25ms
+ GET /api/admin/notifications 200 in 23ms
+ GET /api/admin/notifications 200 in 20ms
+ GET /api/admin/notifications 200 in 26ms
+ GET /api/admin/notifications 200 in 20ms
+ GET /api/admin/notifications 200 in 25ms
+ GET /api/admin/notifications 200 in 28ms
+ GET /api/admin/notifications 200 in 15ms

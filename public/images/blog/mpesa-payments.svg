@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" fill="none">
+  <rect width="1200" height="720" fill="#14532d"/>
+  <circle cx="980" cy="140" r="180" fill="#22c55e" opacity="0.25"/>
+  <rect x="180" y="150" width="280" height="420" rx="48" fill="#052e16"/>
+  <rect x="210" y="190" width="220" height="340" rx="32" fill="#16a34a"/>
+  <circle cx="320" cy="500" r="18" fill="#dcfce7"/>
+  <rect x="560" y="210" width="460" height="280" rx="32" fill="#166534"/>
+  <rect x="610" y="270" width="220" height="18" rx="9" fill="#bbf7d0"/>
+  <rect x="610" y="310" width="340" height="14" rx="7" fill="#86efac"/>
+  <rect x="610" y="350" width="280" height="14" rx="7" fill="#4ade80"/>
+  <text x="80" y="660" fill="#dcfce7" font-size="42" font-family="Arial" font-weight="700">M-Pesa Payment APIs</text>
+</svg>

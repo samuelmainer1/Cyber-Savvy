@@ -1,0 +1,8 @@
+node_modules
+.next
+.env.local
+data/contacts.json
+data/newsletter.json
+data/applications.json
+public/uploads/*
+!public/uploads/.gitkeep

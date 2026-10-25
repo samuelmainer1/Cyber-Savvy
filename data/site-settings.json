@@ -1,0 +1,26 @@
+{
+  "contactServices": [
+    "Full-Stack Development",
+    "Custom Systems & ERPs",
+    "Digital Marketing & SEO",
+    "Managed IT & Cybersecurity",
+    "Monthly Dedicated Retainer",
+    "Other"
+  ],
+  "contactBudgets": [
+    "Under KSh 150,000",
+    "KSh 150,000 - KSh 300,000",
+    "KSh 300,000 - KSh 500,000",
+    "KSh 500,000 - KSh 1,000,000",
+    "KSh 1,000,000+",
+    "Not sure yet"
+  ],
+  "bookBudgets": [
+    "Under KSh 150,000",
+    "KSh 150,000 - KSh 300,000",
+    "KSh 300,000 - KSh 500,000",
+    "KSh 500,000 - KSh 1,000,000",
+    "KSh 1,000,000+",
+    "Not sure yet"
+  ]
+}

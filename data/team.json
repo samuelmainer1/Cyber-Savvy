@@ -1,0 +1,161 @@
+[
+  {
+    "id": "team-1",
+    "name": "Sam Maina",
+    "role": "Founder & Lead Engineer",
+    "bio": "Full-stack software engineer and systems architect with over a decade of experience building custom ERPs, high-scale web applications, and secure infrastructure for businesses across Africa and beyond.",
+    "avatar": "SM",
+    "color": "bg-indigo-600",
+    "specialties": [
+      "Full-Stack Development",
+      "System Architecture",
+      "DevOps",
+      "Team Leadership"
+    ],
+    "links": [
+      {
+        "label": "Schedule a Call",
+        "href": "/contact",
+        "variant": "primary"
+      },
+      {
+        "label": "Direct Call",
+        "href": "tel:+254722359298",
+        "variant": "outline"
+      }
+    ]
+  },
+  {
+    "id": "team-2",
+    "name": "Grace Wanjiku",
+    "role": "Senior Product Designer",
+    "bio": "Product designer specializing in Figma wireframes, high-fidelity prototypes, brand identity, and conversion-focused UX audits that turn visitors into customers.",
+    "avatar": "GW",
+    "color": "bg-violet-600",
+    "specialties": [
+      "UI/UX Design",
+      "Brand Identity",
+      "Figma Prototyping",
+      "Design Systems"
+    ],
+    "links": [
+      {
+        "label": "View Work",
+        "href": "/work",
+        "variant": "outline"
+      },
+      {
+        "label": "Contact",
+        "href": "/contact",
+        "variant": "primary"
+      }
+    ]
+  },
+  {
+    "id": "team-3",
+    "name": "David Omondi",
+    "role": "DevOps & Cloud Engineer",
+    "bio": "Infrastructure engineer focused on zero-trust networks, CI/CD pipelines, cloud operations (AWS/Azure), and air-gapped disaster recovery.",
+    "avatar": "DO",
+    "color": "bg-emerald-600",
+    "specialties": [
+      "AWS",
+      "Azure",
+      "CI/CD",
+      "Zero-Trust Security",
+      "Kubernetes"
+    ],
+    "links": [
+      {
+        "label": "Managed IT",
+        "href": "/services/managed-it-cybersecurity",
+        "variant": "outline"
+      },
+      {
+        "label": "Contact",
+        "href": "/contact",
+        "variant": "primary"
+      }
+    ]
+  },
+  {
+    "id": "team-4",
+    "name": "Amina Hassan",
+    "role": "Digital Marketing Lead",
+    "bio": "Growth marketer driving Page 1 SEO rankings, high-ROI Google Ads and Meta campaigns, and content strategies that convert.",
+    "avatar": "AH",
+    "color": "bg-blue-600",
+    "specialties": [
+      "Technical SEO",
+      "Google Ads",
+      "Meta Ads",
+      "Content Marketing",
+      "CRO"
+    ],
+    "links": [
+      {
+        "label": "Digital Marketing",
+        "href": "/services/digital-marketing",
+        "variant": "outline"
+      },
+      {
+        "label": "Contact",
+        "href": "/contact",
+        "variant": "primary"
+      }
+    ]
+  },
+  {
+    "id": "team-5",
+    "name": "Eric Kiprotich",
+    "role": "Senior Full-Stack Developer",
+    "bio": "Full-stack developer building Next.js web apps, reactive frontends, and REST/GraphQL backends engineered for speed and scale.",
+    "avatar": "EK",
+    "color": "bg-pink-600",
+    "specialties": [
+      "Next.js",
+      "React",
+      "TypeScript",
+      "Node.js",
+      "Python"
+    ],
+    "links": [
+      {
+        "label": "Full-Stack Dev",
+        "href": "/services/full-stack-development",
+        "variant": "outline"
+      },
+      {
+        "label": "Contact",
+        "href": "/contact",
+        "variant": "primary"
+      }
+    ]
+  },
+  {
+    "id": "team-6",
+    "name": "Faith Njeri",
+    "role": "Customer Success Manager",
+    "bio": "Customer success lead ensuring smooth onboarding, care plan management, and ongoing support for all Cyber Savvy Pro clients.",
+    "avatar": "FN",
+    "color": "bg-amber-600",
+    "specialties": [
+      "Client Onboarding",
+      "Website Maintenance",
+      "Support",
+      "Account Management"
+    ],
+    "links": [
+      {
+        "label": "Maintenance Plans",
+        "href": "/services/website-maintenance-support",
+        "variant": "outline"
+      },
+      {
+        "label": "Contact",
+        "href": "/contact",
+        "variant": "primary"
+      }
+    ]
+  }
+]

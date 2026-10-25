@@ -1,0 +1,924 @@
+[
+  {
+    "id": "home-stats",
+    "items": [
+      {
+        "value": "50+",
+        "label": "Enterprise Projects Delivered"
+      },
+      {
+        "value": "99.9%",
+        "label": "Uptime & SLA Guarantee"
+      },
+      {
+        "value": "&lt; 24h",
+        "label": "Proposal Turnaround"
+      },
+      {
+        "value": "100%",
+        "label": "Source Code Ownership"
+      }
+    ]
+  },
+  {
+    "id": "about-stats",
+    "items": [
+      {
+        "value": "50+",
+        "label": "Custom Systems Delivered"
+      },
+      {
+        "value": "99.9%",
+        "label": "Client Satisfaction Rate"
+      },
+      {
+        "value": "24/7",
+        "label": "Managed IT & Support Coverage"
+      },
+      {
+        "value": "100%",
+        "label": "On-Time Sprint Delivery"
+      }
+    ]
+  },
+  {
+    "id": "about-values",
+    "items": [
+      {
+        "icon": "🎯",
+        "title": "Engineering Precision",
+        "description": "We write clean, modular, and maintainable TypeScript and Python code. No duct tape, no shortcuts, and no technical debt passed to clients."
+      },
+      {
+        "icon": "🤝",
+        "title": "Founder-Led Transparency",
+        "description": "Every client works directly with founder Sam Maina and senior architects. You get honest technical guidance, clear pricing, and no middleman markup."
+      },
+      {
+        "icon": "🔒",
+        "title": "Uncompromising Security",
+        "description": "Cybersecurity and data confidentiality are non-negotiable. We integrate zero-trust architecture, encryption, and automated backups into every system we deploy."
+      },
+      {
+        "icon": "🚀",
+        "title": "Business-First ROI",
+        "description": "We measure success not by lines of code, but by the tangible time and money our systems save or generate for your business."
+      }
+    ]
+  },
+  {
+    "id": "career-benefits",
+    "items": [
+      {
+        "title": "Founder-led mentorship",
+        "description": "Work directly with Sam Maina on architecture, delivery, and client strategy."
+      },
+      {
+        "title": "Real production work",
+        "description": "Ship live systems, not internal demos. Your work reaches paying businesses."
+      },
+      {
+        "title": "Clear growth path",
+        "description": "Move from delivery into lead engineering, growth, or client architecture roles."
+      },
+      {
+        "title": "Competitive pay",
+        "description": "Project bonuses, retainers, and performance-based compensation."
+      }
+    ]
+  },
+  {
+    "id": "features-categories",
+    "items": [
+      {
+        "category": "Custom Software Engineering",
+        "tagline": "Bespoke systems engineered around your exact operations.",
+        "items": [
+          {
+            "icon": "🖥️",
+            "title": "Full-Stack Web Applications",
+            "desc": "Production Next.js, React, Node.js and Python applications — built, tested and deployed by senior engineers, not handed off to juniors."
+          },
+          {
+            "icon": "🏗️",
+            "title": "Custom ERPs & Internal Systems",
+            "desc": "Replace spreadsheet chaos with one system of record for dispatch, inventory, invoicing and reporting — built around how your team actually works."
+          },
+          {
+            "icon": "🔌",
+            "title": "API & Integration Engineering",
+            "desc": "Secure, production-grade connectors for M-Pesa, Stripe, Salesforce, WhatsApp Business and any API your operations depend on."
+          },
+          {
+            "icon": "📱",
+            "title": "Offline-First Mobile Apps",
+            "desc": "Android and iOS apps with offline data capture and background sync for field teams working beyond network coverage."
+          }
+        ]
+      },
+      {
+        "category": "Data, Dashboards & Automation",
+        "tagline": "Decisions driven by live data, not month-old spreadsheets.",
+        "items": [
+          {
+            "icon": "📊",
+            "title": "Custom KPI Dashboards",
+            "desc": "Real-time operational dashboards that pull from your actual systems — dispatch turnaround, sales pipeline, stock levels — not manual exports."
+          },
+          {
+            "icon": "⚙️",
+            "title": "Workflow Automation",
+            "desc": "Automated dispatch routing, approval chains, invoicing and SMS/WhatsApp notifications that remove hours of manual coordination."
+          },
+          {
+            "icon": "🔄",
+            "title": "Data Migration & Cleanup",
+            "desc": "Move off legacy spreadsheets with validated, deduplicated, cleaned data — nothing lost or mispriced in the transition."
+          },
+          {
+            "icon": "📈",
+            "title": "Automated Reporting",
+            "desc": "Scheduled management and board reports generated straight from live data — ready the moment you need them."
+          }
+        ]
+      },
+      {
+        "category": "Growth & Digital Marketing",
+        "tagline": "Visibility, traffic and bookings that compound.",
+        "items": [
+          {
+            "icon": "🔍",
+            "title": "Technical SEO",
+            "desc": "Core Web Vitals, schema markup and architecture-level fixes that earn rankings for the keywords your buyers actually search."
+          },
+          {
+            "icon": "📣",
+            "title": "Performance Marketing",
+            "desc": "Meta and Google Ads managed against real ROAS targets — like the 5.4x return we sustain for Safari Luxury Safaris."
+          },
+          {
+            "icon": "🎨",
+            "title": "Branding & UI/UX Design",
+            "desc": "Brand identity, design systems and conversion-focused interfaces that make every touchpoint look as good as the engineering behind it."
+          },
+          {
+            "icon": "🌍",
+            "title": "Local & International SEO",
+            "desc": "Rank in Kenya and abroad — we've taken a safari client to #1 for their highest-value US and UK keywords."
+          }
+        ]
+      },
+      {
+        "category": "Security & Managed IT",
+        "tagline": "Zero-trust infrastructure and support that answers.",
+        "items": [
+          {
+            "icon": "🛡️",
+            "title": "Zero-Trust Security",
+            "desc": "Least-privilege access, EDR defense and continuous monitoring — the architecture behind zero breaches in 3 years for a financial client."
+          },
+          {
+            "icon": "☁️",
+            "title": "Managed IT & Support",
+            "desc": "SLA-backed IT support with monitoring and fast resolution — under 10 minutes average for our managed clients."
+          },
+          {
+            "icon": "💾",
+            "title": "Backups & Disaster Recovery",
+            "desc": "Air-gapped backups, RTO/RPO planning and failover procedures for mission-critical infrastructure."
+          },
+          {
+            "icon": "🔐",
+            "title": "Compliance-Ready Engineering",
+            "desc": "Data handling designed around the Kenya Data Protection Act — audit logging, encryption at rest and in transit, access controls."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "how-it-works-steps",
+    "items": [
+      {
+        "step": "01",
+        "tag": "Scoping Call",
+        "title": "A straight-talking scoping call with Sam Maina",
+        "description": "No sales scripts. You explain the operational problem — spreadsheet chaos, slow dispatch, manual billing — and Sam maps it to a technical direction, timeline and honest budget range on the call itself.",
+        "points": [
+          "Direct access to the founder — no account managers, no junior handoffs",
+          "Honest build-vs-buy advice: if an off-the-shelf tool fits, we'll tell you",
+          "Rough architecture sketch and budget range before you commit to anything"
+        ],
+        "badge": "Free · 30 minutes"
+      },
+      {
+        "step": "02",
+        "tag": "Proposal & Plan",
+        "title": "A fixed proposal and architecture plan within 48 hours",
+        "description": "You receive a formal, itemised proposal: scope, sprint plan, milestones, fixed pricing and a committed launch date. What we quote is what you pay — no creeping hourly billing.",
+        "points": [
+          "Itemised scope with fixed pricing and a committed launch date",
+          "Technology choices explained in plain business language",
+          "Sign-off only happens when you understand exactly what you're buying"
+        ],
+        "badge": "Within 48 hours"
+      },
+      {
+        "step": "03",
+        "tag": "Sprint Delivery",
+        "title": "Sprint builds with a live staging link from week one",
+        "description": "Work ships in weekly sprints. You watch progress on a staging environment and test real features as they land — no six-month silence followed by a big reveal.",
+        "points": [
+          "A staging link from the first week — see and test real progress",
+          "Weekly sprint reviews where your feedback changes the next sprint",
+          "Every line of code reviewed and tested by Sam personally"
+        ],
+        "badge": "Weekly updates"
+      },
+      {
+        "step": "04",
+        "tag": "Launch & Support",
+        "title": "Launch, training and support that keeps answering",
+        "description": "We handle deployment, migrate your data and train your team — then stay on for monitoring, updates and new features as your business grows.",
+        "points": [
+          "White-glove launch: deployment, data migration and team training",
+          "SLA-backed support and monitoring after go-live",
+          "A roadmap for phase two once the system proves its value"
+        ],
+        "badge": "Ongoing"
+      }
+    ]
+  },
+  {
+    "id": "testimonials-metrics",
+    "items": [
+      {
+        "value": "50+",
+        "label": "Custom systems built & delivered"
+      },
+      {
+        "value": "99.9%",
+        "label": "Average uptime across managed systems"
+      },
+      {
+        "value": "<10 min",
+        "label": "Average support ticket resolution"
+      },
+      {
+        "value": "100%",
+        "label": "Projects delivered on committed timelines"
+      }
+    ]
+  },
+  {
+    "id": "services-custom-systems-solutions",
+    "items": [
+      {
+        "icon": "🏢",
+        "title": "Custom ERP & Operations Portals",
+        "desc": "Unify finance, supply chain, HR, and project management in one purpose-built, secure central system.",
+        "benefits": [
+          "Replaces fragmented spreadsheets",
+          "Custom permission tiers per role",
+          "Real-time consolidated reports"
+        ]
+      },
+      {
+        "icon": "📦",
+        "title": "Inventory & Warehouse Systems",
+        "desc": "Barcode scanning, stock tracking, automated re-ordering thresholds, and multi-location warehouse visibility.",
+        "benefits": [
+          "Prevents stockouts & overstock",
+          "Integrates with POS and accounting",
+          "Batch tracking & expiry monitoring"
+        ]
+      },
+      {
+        "icon": "🤖",
+        "title": "Workflow Automation & Scripting",
+        "desc": "Eliminate repetitive manual data entry. We write intelligent bots and scheduled sync jobs that work 24/7.",
+        "benefits": [
+          "Saves 20+ hours weekly per employee",
+          "Zero copy-paste errors",
+          "Instant webhook alerts on Slack/SMS"
+        ]
+      },
+      {
+        "icon": "👥",
+        "title": "Custom CRM & Client Portals",
+        "desc": "Track client interactions, automated follow-ups, contract signing, ticketing, and self-service invoicing.",
+        "benefits": [
+          "Increases deal close rates",
+          "Client self-service documents",
+          "Automated email & WhatsApp triggers"
+        ]
+      },
+      {
+        "icon": "📊",
+        "title": "Executive Business Intelligence (BI)",
+        "desc": "Consolidate databases, APIs, and sales feeds into interactive real-time executive dashboards.",
+        "benefits": [
+          "Live P&L and revenue metrics",
+          "Automated weekly board PDFs",
+          "Forecasting based on historical trends"
+        ]
+      },
+      {
+        "icon": "🔌",
+        "title": "Legacy System Modernization",
+        "desc": "Upgrade outdated desktop software, MS Access files, or legacy servers into responsive, cloud-hosted web apps.",
+        "benefits": [
+          "Zero data loss migration",
+          "Accessible from anywhere securely",
+          "Lower maintenance overhead"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "services-development-process-stages",
+    "items": [
+      {
+        "phase": "01",
+        "name": "Discovery & Requirements Blueprint",
+        "tagline": "Aligning on goals, scope, user stories, and measurable metrics.",
+        "details": [
+          "Deep-dive technical workshop with founder Sam Maina and senior architects",
+          "User persona mapping, functional specifications, and data flow diagrams",
+          "Transparent timeline, sprint roadmap, and fixed or milestone pricing"
+        ]
+      },
+      {
+        "phase": "02",
+        "name": "UI/UX Prototyping & System Architecture",
+        "tagline": "Designing high-fidelity prototypes and enterprise database schemas.",
+        "details": [
+          "Clickable Figma interactive wireframes and design system creation",
+          "Database ERD schemas, API contracts, and security architecture planning",
+          "Client approval sign-off before writing a single line of backend code"
+        ]
+      },
+      {
+        "phase": "03",
+        "name": "Agile Sprint Development & Continuous Delivery",
+        "tagline": "Rapid, clean, and tested code shipped in transparent 2-week cycles.",
+        "details": [
+          "Live staging URL updated continuously with GitHub CI/CD automation",
+          "Bi-weekly sprint reviews and progress demos with direct client feedback",
+          "Clean TypeScript code adhering strictly to SOLID principles and design patterns"
+        ]
+      },
+      {
+        "phase": "04",
+        "name": "Rigorous QA, Security & Load Testing",
+        "tagline": "Ensuring zero regressions, peak performance, and airtight cybersecurity.",
+        "details": [
+          "Automated unit, integration, and end-to-end Cypress/Playwright test suites",
+          "Cross-device and multi-browser responsiveness validation",
+          "Penetration testing, vulnerability scanning, and peak concurrent load tests"
+        ]
+      },
+      {
+        "phase": "05",
+        "name": "Production Launch, Handover & Growth",
+        "tagline": "Seamless zero-downtime deployment and ongoing optimization.",
+        "details": [
+          "DNS configuration, SSL provisioning, and cloud deployment on AWS / Vercel",
+          "Comprehensive documentation, admin user guides, and staff training sessions",
+          "Continuous monitoring, regular security patches, and roadmap iteration"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "services-digital-marketing-list",
+    "items": [
+      {
+        "icon": "🔍",
+        "title": "Technical & On-Page SEO",
+        "desc": "Comprehensive keyword research, schema markup, Core Web Vitals optimization, and link building that puts you on Page 1 of Google.",
+        "deliverables": [
+          "Full SEO Audit & Competitor Gap Analysis",
+          "High-Authority Backlink Acquisition",
+          "Schema & Local SEO for Kenya / Global"
+        ]
+      },
+      {
+        "icon": "🎯",
+        "title": "High-ROI Google Ads (PPC)",
+        "desc": "Target high-intent searchers ready to buy. We design, test, and optimize Google Search, Display, and Performance Max campaigns with strict CPA targets.",
+        "deliverables": [
+          "Search, Display & Remarketing",
+          "Negative Keyword Sculpting",
+          "Conversion Tracking & Heatmaps"
+        ]
+      },
+      {
+        "icon": "📱",
+        "title": "Social Media Marketing & Meta Ads",
+        "desc": "Laser-targeted paid ad campaigns and organic community growth across Facebook, Instagram, LinkedIn, TikTok, and X (Twitter).",
+        "deliverables": [
+          "Creative Ad Production & Copywriting",
+          "Audience Retargeting Funnels",
+          "Community Management & Brand Growth"
+        ]
+      },
+      {
+        "icon": "✍️",
+        "title": "Content Marketing & Copywriting",
+        "desc": "Authoritative blog articles, technical case studies, whitepapers, and landing page copy written to convert visitors into qualified paying leads.",
+        "deliverables": [
+          "SEO-Optimized Thought Leadership Articles",
+          "High-Converting Sales Landing Pages",
+          "Lead Magnet & PDF Design"
+        ]
+      },
+      {
+        "icon": "📬",
+        "title": "Email Marketing & Automated Funnels",
+        "desc": "Customer nurture sequences, abandoned cart triggers, promotional broadcasts, and re-engagement campaigns that compound customer LTV.",
+        "deliverables": [
+          "Klaviyo / Mailchimp Setup & Automations",
+          "A/B Subject Line & CTA Testing",
+          "Audience Segmentation & List Hygiene"
+        ]
+      },
+      {
+        "icon": "📈",
+        "title": "Conversion Rate Optimization (CRO)",
+        "desc": "Turn existing traffic into more revenue. We run UX audits, multivariate tests, and form optimization to maximize conversion percentages.",
+        "deliverables": [
+          "User Journey & Drop-off Analysis",
+          "Landing Page A/B Split Testing",
+          "Checkout Flow Friction Removal"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "services-digital-marketing-results",
+    "items": [
+      {
+        "metric": "+340%",
+        "label": "Average Organic Traffic Growth"
+      },
+      {
+        "metric": "4.8x",
+        "label": "Average Return on Ad Spend (ROAS)"
+      },
+      {
+        "metric": "#1",
+        "label": "Rankings for Competitive Commercial Keywords"
+      },
+      {
+        "metric": "-45%",
+        "label": "Reduction in Customer Acquisition Cost"
+      }
+    ]
+  },
+  {
+    "id": "services-full-stack-capabilities",
+    "items": [
+      {
+        "icon": "⚡",
+        "title": "Modern Frontend Engineering",
+        "description": "Lightning-fast, accessible user interfaces built with React, Next.js, Vue, Tailwind CSS and TypeScript with sub-second page loads and mobile-first responsiveness.",
+        "tech": [
+          "Next.js",
+          "React",
+          "TypeScript",
+          "Tailwind CSS",
+          "Redux/Zustand"
+        ]
+      },
+      {
+        "icon": "⚙️",
+        "title": "High-Throughput Backend & APIs",
+        "description": "Resilient REST and GraphQL microservices, real-time WebSockets, and asynchronous background queues built in Node.js, Python, Go, and PostgreSQL.",
+        "tech": [
+          "Node.js",
+          "Python / FastAPI",
+          "PostgreSQL",
+          "Redis",
+          "GraphQL"
+        ]
+      },
+      {
+        "icon": "📱",
+        "title": "Mobile App Development",
+        "description": "Cross-platform iOS and Android mobile experiences engineered with React Native and Flutter, sharing business logic for rapid time-to-market.",
+        "tech": [
+          "React Native",
+          "Flutter",
+          "iOS & Android",
+          "Expo"
+        ]
+      },
+      {
+        "icon": "☁️",
+        "title": "Cloud Architecture & DevOps",
+        "description": "Automated CI/CD pipelines, Docker container orchestration, serverless lambdas, and multi-region deployment across AWS, GCP, and Vercel.",
+        "tech": [
+          "AWS",
+          "Google Cloud",
+          "Docker",
+          "Kubernetes",
+          "GitHub Actions"
+        ]
+      },
+      {
+        "icon": "💳",
+        "title": "E-Commerce & Payment Engines",
+        "description": "Seamless integrations with Stripe, PayPal, M-Pesa, Flutterwave, and custom multi-currency checkout flows with fraud detection.",
+        "tech": [
+          "Stripe",
+          "M-Pesa API",
+          "PayPal",
+          "Shopify Headless"
+        ]
+      },
+      {
+        "icon": "🔒",
+        "title": "Enterprise Security & Auth",
+        "description": "OAuth 2.0, SAML/SSO, role-based access control (RBAC), end-to-end encryption, and rigorous penetration-tested architectures.",
+        "tech": [
+          "NextAuth / Auth0",
+          "OAuth 2.0 / SSO",
+          "JWT",
+          "KMS Encryption"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "services-full-stack-deliverables",
+    "items": [
+      {
+        "step": "01",
+        "name": "Architecture & Wireframes",
+        "desc": "Interactive Figma prototypes and database schema diagrams before writing code."
+      },
+      {
+        "step": "02",
+        "name": "Agile Sprint Development",
+        "desc": "Bi-weekly sprint demos with production staging preview links for your review."
+      },
+      {
+        "step": "03",
+        "name": "QA & Penetration Testing",
+        "desc": "Rigorous unit, integration, and security stress-testing under peak concurrent loads."
+      },
+      {
+        "step": "04",
+        "name": "Deployment & Handover",
+        "desc": "Zero-downtime deployment, full source code ownership, documentation, and training."
+      }
+    ]
+  },
+  {
+    "id": "services-managed-it-list",
+    "items": [
+      {
+        "icon": "🛡️",
+        "title": "Cybersecurity & Threat Defense",
+        "desc": "Proactive endpoint protection, firewall management, ransomware defense, phishing simulations, and vulnerability assessments to safeguard company assets.",
+        "features": [
+          "Next-Gen Endpoint Detection & Response (EDR)",
+          "Zero-Trust Architecture & MFA Enforcement",
+          "Quarterly Penetration Testing & Compliance Audits"
+        ]
+      },
+      {
+        "icon": "☁️",
+        "title": "Cloud Infrastructure Management",
+        "desc": "Design, deployment, and ongoing optimization of Microsoft Azure, AWS, and Google Cloud environments with automated scaling and cost reduction.",
+        "features": [
+          "Cloud Migration with Zero Downtime",
+          "FinOps & Cloud Spend Optimization",
+          "Hybrid Cloud & Multi-Region Setup"
+        ]
+      },
+      {
+        "icon": "🔄",
+        "title": "Automated Backups & Disaster Recovery",
+        "desc": "Immutable cloud backups, rapid recovery drills, and strict RPO/RTO SLAs ensuring your operations can resume immediately after any disruption.",
+        "features": [
+          "Air-Gapped Ransomware-Proof Backups",
+          "Sub-15-minute Disaster Recovery SLA",
+          "Daily Automated Integrity Checks"
+        ]
+      },
+      {
+        "icon": "🌐",
+        "title": "Enterprise Network & WiFi Setup",
+        "desc": "Commercial router configuration, structured cabling, VPN gateways, VLAN segmentation, and high-speed multi-AP WiFi for offices and warehouses.",
+        "features": [
+          "Enterprise Cisco / Ubiquiti UniFi Setup",
+          "Encrypted Site-to-Site VPNs",
+          "Bandwidth Monitoring & QoS Optimization"
+        ]
+      },
+      {
+        "icon": "🎧",
+        "title": "24/7 IT Helpdesk & End-User Support",
+        "desc": "Fast, friendly remote and on-site IT support for your team. We resolve hardware, software, printer, and access issues with guaranteed response times.",
+        "features": [
+          "15-Minute Average Ticket Resolution Time",
+          "Onboarding / Offboarding User Automation",
+          "Hardware Procurement & Asset Tracking"
+        ]
+      },
+      {
+        "icon": "📋",
+        "title": "Compliance & IT Governance",
+        "desc": "Align your IT operations with international and regional regulatory standards including ISO 27001, GDPR, and local data protection regulations.",
+        "features": [
+          "Data Privacy & Governance Frameworks",
+          "Staff Cybersecurity Training Programs",
+          "Comprehensive IT Asset Documentation"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "services-ui-ux-capabilities",
+    "items": [
+      {
+        "icon": "🎨",
+        "title": "Brand Identity & Logo Design",
+        "description": "A complete visual identity — logo suite, color palette, typography, and brand guidelines that make your business instantly recognizable everywhere it appears.",
+        "tech": [
+          "Logo Design",
+          "Brand Guidelines",
+          "Color Palette",
+          "Typography"
+        ]
+      },
+      {
+        "icon": "🖥️",
+        "title": "Website & Product UI Design",
+        "description": "Pixel-perfect, responsive interfaces for websites, dashboards, and internal tools — designed mobile-first so they look sharp on every screen your customers use.",
+        "tech": [
+          "Figma",
+          "Responsive UI",
+          "Dashboard Design",
+          "Mobile-First"
+        ]
+      },
+      {
+        "icon": "🔍",
+        "title": "UX Research & Usability Audits",
+        "description": "We interview your users, map their journeys, and run heuristic audits on your current product to pinpoint exactly where people drop off — and why they leave.",
+        "tech": [
+          "User Personas",
+          "Journey Maps",
+          "Heuristic Audit",
+          "Usability Testing"
+        ]
+      },
+      {
+        "icon": "📐",
+        "title": "Wireframes & Interactive Prototypes",
+        "description": "Low-fidelity wireframes evolve into clickable, high-fidelity Figma prototypes your team can test with real users before a single line of code is written.",
+        "tech": [
+          "Low & High Fidelity",
+          "Clickable Prototypes",
+          "Figma Handoff"
+        ]
+      },
+      {
+        "icon": "🧩",
+        "title": "Design Systems & Component Libraries",
+        "description": "Reusable components, design tokens, and accessibility-checked patterns that keep your product consistent and cut design time on every new feature.",
+        "tech": [
+          "Design Tokens",
+          "Component Library",
+          "WCAG Accessibility",
+          "Dev Handoff"
+        ]
+      },
+      {
+        "icon": "📈",
+        "title": "Conversion-Focused Design (CRO)",
+        "description": "Landing pages and funnels designed around a single goal — turning traffic into enquiries, sales, and signups, ready for A/B testing from day one.",
+        "tech": [
+          "Landing Pages",
+          "A/B Test Ready",
+          "CTA Strategy",
+          "Funnel Design"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "services-ui-ux-steps",
+    "items": [
+      {
+        "step": "01",
+        "name": "Discovery & Brand Brief",
+        "desc": "We align on goals, audience, competitors, and the measurable outcomes the design must drive."
+      },
+      {
+        "step": "02",
+        "name": "Wireframes & User Flows",
+        "desc": "Structure first: sitemaps, user flows, and low-fidelity wireframes signed off before visual design begins."
+      },
+      {
+        "step": "03",
+        "name": "High-Fidelity Design & Prototype",
+        "desc": "Brand-aligned UI designed in Figma and assembled into a clickable prototype ready for real-user feedback."
+      },
+      {
+        "step": "04",
+        "name": "Handoff & Iteration",
+        "desc": "Developer-ready specs, design tokens, and post-launch iterations informed by how people really use the product."
+      }
+    ]
+  },
+  {
+    "id": "services-maintenance-coverage",
+    "items": [
+      {
+        "icon": "🔄",
+        "title": "Updates & Patch Management",
+        "description": "Core, theme, plugin, and dependency updates rolled out on staging first, verified, then deployed — so an update never takes your live site down.",
+        "tech": [
+          "Staged Updates",
+          "Regression Checks",
+          "Changelog Review",
+          "Runtime Upgrades"
+        ]
+      },
+      {
+        "icon": "🛡️",
+        "title": "Security Hardening & Malware Scans",
+        "description": "Web application firewalls, daily malware scans, SSL and security-header checks, and rapid patching when a plugin or library discloses a vulnerability.",
+        "tech": [
+          "WAF Setup",
+          "Malware Scanning",
+          "SSL & Security Headers",
+          "Vuln Patching"
+        ]
+      },
+      {
+        "icon": "⚡",
+        "title": "Performance & Core Web Vitals",
+        "description": "Caching layers, image optimization, script audits, and CDN tuning that keep your pages fast on the mobile connections most of your customers actually use.",
+        "tech": [
+          "Caching Strategy",
+          "Image Optimization",
+          "Core Web Vitals",
+          "CDN Tuning"
+        ]
+      },
+      {
+        "icon": "💾",
+        "title": "Backups & Disaster Recovery",
+        "description": "Automatic daily offsite backups of code and database, with tested one-click restores so recovery is minutes of work instead of a lost weekend.",
+        "tech": [
+          "Daily Backups",
+          "Offsite Storage",
+          "Tested Restores",
+          "Version History"
+        ]
+      },
+      {
+        "icon": "🩺",
+        "title": "24/7 Uptime Monitoring & Fixes",
+        "description": "Continuous uptime and form checks, broken-link and 404 repairs, SSL expiry alerts, and fast human fixes the moment something actually breaks.",
+        "tech": [
+          "Uptime Monitoring",
+          "404 & Link Fixes",
+          "Form Monitoring",
+          "SSL Alerts"
+        ]
+      },
+      {
+        "icon": "📝",
+        "title": "Content Updates & SEO Care",
+        "description": "A block of development hours every month for new pages, blog posts, on-page SEO fixes, and the small changes your team should never have to chase a ticket for.",
+        "tech": [
+          "Monthly Dev Hours",
+          "Content Updates",
+          "On-Page SEO",
+          "Monthly Reports"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "services-maintenance-routine",
+    "items": [
+      {
+        "step": "01",
+        "name": "Audit & Onboarding",
+        "desc": "We audit your current site, fix the urgent issues, and document its stack, hosting, and dependencies."
+      },
+      {
+        "step": "02",
+        "name": "Stabilize & Secure",
+        "desc": "Updates, backups, firewall, and monitoring go in place so the site starts from a healthy, documented baseline."
+      },
+      {
+        "step": "03",
+        "name": "Monitor & Maintain",
+        "desc": "Around-the-clock monitoring with proactive patching, performance tuning, and priority incident response."
+      },
+      {
+        "step": "04",
+        "name": "Report & Improve",
+        "desc": "A plain-English monthly report covering uptime, performance, security, and the improvements worth making next."
+      }
+    ]
+  },
+  {
+    "id": "services-wordpress-list",
+    "items": [
+      {
+        "icon": "🎨",
+        "title": "Custom WordPress Design",
+        "desc": "Beautiful, conversion-focused WordPress websites tailored to your brand, audience, and objectives.",
+        "deliverables": [
+          "Custom Theme Customization",
+          "Responsive UX Design",
+          "Brand-Aligned Layouts"
+        ]
+      },
+      {
+        "icon": "⚙️",
+        "title": "WordPress Functionality & Integrations",
+        "desc": "We extend WordPress with custom features, plugins, CRMs, booking flows, and third-party integrations that fit your operations.",
+        "deliverables": [
+          "Custom Post Types",
+          "Plugin Integration",
+          "CRM / Forms / Booking Workflows"
+        ]
+      },
+      {
+        "icon": "🛍️",
+        "title": "WooCommerce Stores",
+        "desc": "Turn your WordPress site into a functional e-commerce platform with product, checkout, and payment experiences that convert.",
+        "deliverables": [
+          "Shop Setup & Catalogs",
+          "Cart & Checkout Optimization",
+          "Payment & Shipping Integration"
+        ]
+      },
+      {
+        "icon": "🔍",
+        "title": "SEO-Friendly WordPress Builds",
+        "desc": "We build with performance, crawlability, and content structure in mind so your site can rank and retain visitors.",
+        "deliverables": [
+          "Fast Page Speed Setup",
+          "Schema & On-Page SEO",
+          "Content Structure Optimization"
+        ]
+      },
+      {
+        "icon": "🧰",
+        "title": "Maintenance & Optimization",
+        "desc": "Keep your WordPress website secure, stable, and performant with monitoring, updates, and ongoing improvement.",
+        "deliverables": [
+          "Plugin & Core Updates",
+          "Security Hardening",
+          "Performance Tuning"
+        ]
+      },
+      {
+        "icon": "📈",
+        "title": "Business Growth Websites",
+        "desc": "Professional sites built to generate leads, increase trust, and help you showcase expertise in your market.",
+        "deliverables": [
+          "Lead Capture Forms",
+          "Service Page Strategy",
+          "Conversion-Ready CTAs"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "services-wordpress-process",
+    "items": [
+      {
+        "step": "01",
+        "title": "Discovery & Strategy",
+        "desc": "We align the site structure, content goals, audience, and conversion priorities before design begins."
+      },
+      {
+        "step": "02",
+        "title": "Design & Development",
+        "desc": "We shape the theme, content blocks, and functionality around your brand and user journey."
+      },
+      {
+        "step": "03",
+        "title": "Optimization & Launch",
+        "desc": "We test performance, fix technical issues, and launch the site in a production-ready state."
+      },
+      {
+        "step": "04",
+        "title": "Support & Growth",
+        "desc": "We continue improving the site with updates, SEO fixes, and feature requests as your business grows."
+      }
+    ]
+  }
+]

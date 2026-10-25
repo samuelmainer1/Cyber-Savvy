@@ -1,0 +1,50 @@
+[
+  {
+    "id": "faq-001",
+    "q": "Who is the founder of Cyber Savvy Pro?",
+    "a": "Cyber Savvy Pro was founded by Sam Maina, a seasoned software engineer and technology architect based along Mombasa Road, Nairobi, Kenya. Sam actively oversees every client engagement and technical roadmap."
+  },
+  {
+    "id": "faq-002",
+    "q": "Do you build custom software or just use templates?",
+    "a": "We engineer 100% bespoke software, custom ERP systems, and web applications tailored specifically to your exact business rules, data structures, and branding. We do not sell generic off-the-shelf templates."
+  },
+  {
+    "id": "faq-003",
+    "q": "How do your monthly retainers work?",
+    "a": "Our retainers provide you with dedicated full-stack engineering hours, ongoing SEO optimization, and 24/7 IT infrastructure management with guaranteed SLAs and direct communication channels."
+  },
+  {
+    "id": "faq-004",
+    "q": "Can you integrate local payment methods like M-Pesa alongside international cards?",
+    "a": "Yes! We specialize in seamless payment gateway architectures, connecting Safaricom M-Pesa Daraja APIs (STK Push, C2B, B2C), card processors like Stripe and Flutterwave, and PayPal in a unified checkout flow."
+  },
+  {
+    "id": "faq-005",
+    "q": "Do I own 100% of the code and intellectual property?",
+    "a": "Absolutely. Upon milestone completion and final invoice settlement, full source code repositories, intellectual property, database schemas, and documentation are transferred to your company."
+  },
+  {
+    "id": "faq-006",
+    "q": "How do we get started on a new project?",
+    "a": "You can request a free technical consultation via our Contact page or call Sam Maina directly at +254 722 359 298. We will organize a scoping workshop to outline requirements and deliver a formal proposal within 48 hours."
+  },
+  {
+    "id": "faq-007",
+    "q": "What actually happens in the free scoping call?",
+    "a": "You talk directly with founder Sam Maina about your operational problem. Within 30 minutes you'll have a rough technical direction, an honest budget range, and a clear next step — or a straight answer that you don't need custom software at all.",
+    "page": "how-it-works"
+  },
+  {
+    "id": "faq-008",
+    "q": "Will you disrupt our operations during the build?",
+    "a": "No. New systems are built and tested on a separate staging environment. Your current spreadsheets and processes keep running until the new system is validated, your data is migrated and your team is trained — then we cut over.",
+    "page": "how-it-works"
+  },
+  {
+    "id": "faq-009",
+    "q": "Can you migrate our existing data?",
+    "a": "Yes. Data migration off spreadsheets and legacy systems is a standard part of every build — cleaned, deduplicated and validated before launch so nothing is lost or mispriced in the move.",
+    "page": "how-it-works"
+  }
+]

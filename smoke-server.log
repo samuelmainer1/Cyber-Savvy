@@ -1,0 +1,10 @@
+
+> mycoding-folder@1.0.0 start
+> next start -p 3000
+
+  ▲ Next.js 14.2.35
+  - Local:        http://localhost:3000
+
+ ✓ Starting...
+ ✓ Ready in 325ms
+[admin-auth] Successful login for user "admin" from ::1

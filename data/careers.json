@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "title": "Full-Stack Software Engineer",
+    "type": "Full-time · Hybrid",
+    "location": "Mombasa Road, Nairobi",
+    "summary": "Build Next.js applications, APIs, and custom ERPs for clients across logistics, health, and e-commerce."
+  },
+  {
+    "id": "2",
+    "title": "Digital Marketing & SEO Specialist",
+    "type": "Full-time · Remote-friendly",
+    "location": "Nairobi / Remote",
+    "summary": "Own technical SEO, Google Ads, and conversion funnels that turn qualified search traffic into paying clients."
+  },
+  {
+    "id": "3",
+    "title": "IT Support & Cybersecurity Associate",
+    "type": "Full-time · On-site",
+    "location": "Mombasa Road, Nairobi",
+    "summary": "Support client infrastructure, monitor threats, and help deliver managed IT and security assessments."
+  }
+]

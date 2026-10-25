@@ -1,0 +1,86 @@
+[
+  {
+    "id": "upd-001",
+    "date": "2026-09-15",
+    "version": "v2.4.0",
+    "title": "Zero-Touch Deployment Pipeline",
+    "category": "Feature",
+    "summary": "Launched fully automated CI/CD with zero-downtime blue-green deployments across all managed hosting clients. Rollback takes under 30 seconds.",
+    "highlights": [
+      "99.99% deployment success rate",
+      "< 30s rollback time",
+      "Zero-downtime releases"
+    ],
+    "tag": "New"
+  },
+  {
+    "id": "upd-002",
+    "date": "2026-08-28",
+    "version": "v2.3.1",
+    "title": "SOC 2 Type II Compliance Achieved",
+    "category": "Security",
+    "summary": "All Cyber Savvy Pro infrastructure and client data handling now meets SOC 2 Type II standards. Third-party audit completed with zero exceptions.",
+    "highlights": [
+      "SOC 2 Type II certified",
+      "End-to-end encryption",
+      "Automated audit logging"
+    ],
+    "tag": "Security"
+  },
+  {
+    "id": "upd-003",
+    "date": "2026-08-10",
+    "version": "v2.3.0",
+    "title": "AI-Powered Support Triage",
+    "category": "Feature",
+    "summary": "Introduced intelligent ticket routing that categorizes and prioritizes incoming support requests using LLM-based intent detection. Average first response dropped to under 10 minutes.",
+    "highlights": [
+      "< 10 min first response",
+      "Automated ticket categorization",
+      "24/7 coverage"
+    ],
+    "tag": "Improved"
+  },
+  {
+    "id": "upd-004",
+    "date": "2026-07-22",
+    "version": "v2.2.0",
+    "title": "Multi-Currency Checkout for E-Commerce",
+    "category": "Feature",
+    "summary": "Rolled out Stripe-powered multi-currency dynamic checkout for e-commerce clients, supporting KES, GBP, and EUR with localized payment methods.",
+    "highlights": [
+      "3 currencies supported",
+      "Localized payment methods",
+      "+32% conversion lift"
+    ],
+    "tag": "New"
+  },
+  {
+    "id": "upd-005",
+    "date": "2026-07-05",
+    "version": "v2.1.0",
+    "title": "Client Dashboard Redesign",
+    "category": "Improvement",
+    "summary": "Completely redesigned the client portal dashboard with real-time project metrics, invoice tracking, and support ticket status — all in one place.",
+    "highlights": [
+      "Real-time metrics",
+      "Invoice tracking",
+      "Mobile-responsive"
+    ],
+    "tag": "Improved"
+  },
+  {
+    "id": "upd-006",
+    "date": "2026-06-18",
+    "version": "v2.0.0",
+    "title": "Platform 2.0 Launch",
+    "category": "Launch",
+    "summary": "Major platform overhaul with Next.js App Router, React Server Components, and edge-cached API routes. 3x faster page loads and improved SEO across all client sites.",
+    "highlights": [
+      "3x faster page loads",
+      "Next.js App Router",
+      "Edge caching"
+    ],
+    "tag": "Major"
+  }
+]

@@ -1,0 +1,80 @@
+{
+  "retainers": [
+    {
+      "id": "1",
+      "name": "Growth & SEO Retainer",
+      "target": "Ideal for businesses wanting to dominate Google search and generate consistent inbound leads.",
+      "price": "Ksh 85,000",
+      "period": "/month",
+      "popular": false,
+      "cta": "Start Marketing Retainer",
+      "features": [
+        "Technical SEO Audits & Ongoing Fixes",
+        "On-Page Optimization & Schema Markup",
+        "4 High-Authority Thought Leadership Articles/mo",
+        "Monthly Keyword Ranking & Competitor Reports",
+        "Google Ads (PPC) Campaign Management",
+        "Monthly Strategy Call with Growth Team"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Dedicated Engineering Retainer",
+      "target": "For companies needing dedicated full-stack developers, bug fixes, and active feature development.",
+      "price": "Ksh 185,000",
+      "period": "/month",
+      "popular": false,
+      "cta": "Hire Dedicated Dev Team",
+      "features": [
+        "Dedicated Full-Stack Software Engineer(s)",
+        "Continuous CI/CD Feature Delivery & Code Reviews",
+        "API Integrations (M-Pesa, Stripe, ERP sync)",
+        "Next.js / React / Node.js & Database Architecture",
+        "Guaranteed 4-Hour Urgent Bug Response SLA",
+        "Bi-Weekly Sprint Planning & Live Staging Links",
+        "Direct Slack/WhatsApp Channel with Sam Maina"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Enterprise Managed IT & Security",
+      "target": "For established enterprises demanding 24/7 infrastructure protection and cloud reliability.",
+      "price": "Ksh 310,000",
+      "period": "/month",
+      "popular": false,
+      "cta": "Request Enterprise IT Plan",
+      "features": [
+        "24/7 IT Helpdesk & Remote Employee Support",
+        "Continuous Cybersecurity & Threat Monitoring",
+        "Automated Air-Gapped Cloud Backups",
+        "Cloud Server Management (AWS / Azure)",
+        "Network, Router & Firewall Administration",
+        "Quarterly Disaster Recovery Drills",
+        "Dedicated Technical Account Director"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "Custom Web Application / Portal",
+      "priceRange": "Starting from KSh 325,000",
+      "timeline": "3 - 6 Weeks",
+      "desc": "Bespoke SaaS MVP, customer portal, or booking system with authentication, payments, and admin panel."
+    },
+    {
+      "id": "2",
+      "title": "Enterprise ERP & Internal Workflow System",
+      "priceRange": "Starting from KSh 585,000",
+      "timeline": "6 - 12 Weeks",
+      "desc": "Comprehensive operations suite replacing manual spreadsheets with automated inventory, invoicing, and reporting."
+    },
+    {
+      "id": "3",
+      "title": "Cross-Platform Mobile App (iOS & Android)",
+      "priceRange": "Starting from KSh 455,000",
+      "timeline": "4 - 8 Weeks",
+      "desc": "Native-feel mobile apps built on React Native or Flutter with push notifications and offline syncing."
+    }
+  ]
+}

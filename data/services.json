@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "icon": "💻",
+    "title": "Full-Stack Development",
+    "desc": "Next.js web apps, reactive frontends, REST/GraphQL backends, and cross-platform mobile apps engineered for speed and scale.",
+    "link": "/services/full-stack-development",
+    "tech": ["Next.js", "React", "TypeScript", "Node.js", "Python"]
+  },
+  {
+    "id": "2",
+    "icon": "⚙️",
+    "title": "Custom Systems & Programs",
+    "desc": "Bespoke ERPs, operations portals, automated inventory managers, and workflow bots replacing manual Excel sheets.",
+    "link": "/services/custom-systems",
+    "tech": ["Custom ERPs", "Workflow Automation", "API Sync", "BI Dashboards"]
+  },
+  {
+    "id": "3",
+    "icon": "📈",
+    "title": "Digital Marketing & SEO",
+    "desc": "Technical SEO ranking, high-ROI Google Ads, Meta advertising, and conversion rate optimization that drives paying clients.",
+    "link": "/services/digital-marketing",
+    "tech": ["Technical SEO", "Google Ads", "Meta Ads", "Content Marketing"]
+  },
+  {
+    "id": "3b",
+    "icon": "📝",
+    "title": "WordPress Development",
+    "desc": "Fast, SEO-friendly WordPress websites and custom business sites built for conversion, performance, and long-term scalability.",
+    "link": "/services/wordpress-development",
+    "tech": ["WordPress", "WooCommerce", "Theme Customization", "SEO-Friendly Builds"]
+  },
+  {
+    "id": "7",
+    "icon": "🎨",
+    "title": "UI/UX Design & Branding",
+    "desc": "Figma wireframes, high-fidelity prototypes, brand identity design, and conversion-focused UX audits that turn visitors into customers.",
+    "link": "/services/ui-ux-design-branding",
+    "tech": ["Figma Prototyping", "Brand Identity", "UX Audits", "Design Systems"]
+  },
+  {
+    "id": "4",
+    "icon": "🛡️",
+    "title": "Managed IT & Cybersecurity",
+    "desc": "24/7 infrastructure monitoring, zero-trust network setup, air-gapped backups, disaster recovery, and IT helpdesk support.",
+    "link": "/services/managed-it-cybersecurity",
+    "tech": ["Cybersecurity", "Cloud (AWS/Azure)", "24/7 IT Support", "EDR Defense"]
+  },
+  {
+    "id": "8",
+    "icon": "🔧",
+    "title": "Website Maintenance & Support",
+    "desc": "Monthly care plans covering updates, security patching, backups, uptime monitoring, and content changes for any existing website.",
+    "link": "/services/website-maintenance-support",
+    "tech": ["Security Patching", "Daily Backups", "Uptime Monitoring", "Core Web Vitals"]
+  },
+  {
+    "id": "9",
+    "icon": "📱",
+    "title": "Mobile App Development",
+    "desc": "Cross-platform iOS and Android mobile apps built with React Native and Flutter — native performance, shared business logic, and rapid time-to-market.",
+    "link": "/services/mobile-app-development",
+    "tech": ["React Native", "Flutter", "iOS & Android", "Expo"]
+  },
+  {
+    "id": "5",
+    "icon": "🧩",
+    "title": "Development Process",
+    "desc": "A proven 5-stage lifecycle from interactive Figma wireframes to continuous agile delivery, rigorous QA, and zero-downtime launch.",
+    "link": "/services/development-process",
+    "tech": ["Figma Wireframes", "Agile Sprints", "CI/CD Staging", "Automated QA"]
+  },
+  {
+    "id": "6",
+    "icon": "💼",
+    "title": "Pricing & Retainers",
+    "desc": "Transparent monthly developer retainers and milestone-based project quotes tailored to your business budget.",
+    "link": "/pricing",
+    "tech": ["Dedicated Devs", "Marketing Retainers", "Fixed Project Scope"]
+  }
+]

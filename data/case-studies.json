@@ -1,0 +1,138 @@
+[
+  {
+    "id": "cs-001",
+    "client": "Apex Logistics Ltd",
+    "industry": "Supply Chain & Freight",
+    "service": "Custom Logistics & Dispatch ERP",
+    "summary": "Replaced 12 legacy spreadsheets with a real-time cloud dispatch portal featuring automated driver SMS routing, GPS fleet tracking, and automated client billing.",
+    "metrics": [
+      { "value": "65%", "label": "Faster Dispatch Turnaround" },
+      { "value": "KSh 23M", "label": "Annual Overhead Saved" },
+      { "value": "99.9%", "label": "On-Time Delivery SLA" }
+    ],
+    "tech": ["Next.js", "Node.js", "PostgreSQL", "M-Pesa API", "Google Maps API"],
+    "teaser": "65% faster dispatch turnaround and KSh 23M annual overhead saved.",
+    "teaserService": "Custom Logistics & Dispatch ERP"
+  },
+  {
+    "id": "cs-002",
+    "client": "BigDrop Kenya",
+    "industry": "E-commerce & Fulfillment",
+    "service": "E-commerce Operations Platform & Warehousing Support",
+    "summary": "Helped position BigDrop Kenya as a reliable digital commerce and fulfillment partner by supporting product flow, warehousing coordination, and delivery operations for sellers operating in a fast-moving online retail environment.",
+    "metrics": [
+      { "value": "24/7", "label": "Order Fulfillment Support" },
+      { "value": "Faster", "label": "Seller-to-Customer Delivery Flow" },
+      { "value": "Scalable", "label": "E-commerce Growth Infrastructure" }
+    ],
+    "tech": ["Order Workflow Design", "Warehouse Ops Support", "Delivery Coordination", "Seller Enablement"],
+    "teaser": "Streamlined online retail operations with warehousing, pick-pack, and delivery support for sellers scaling in Kenya.",
+    "teaserService": "E-commerce Fulfillment & Warehousing"
+  },
+  {
+    "id": "cs-003",
+    "client": "Globeflight Kenya",
+    "industry": "Logistics & Trade Compliance",
+    "service": "IOR/EOR, Import & Export Compliance Automation",
+    "summary": "Supported Globeflight Kenya with digital systems and logistics strategy for compliance-heavy import/export operations, improving transparency across customs, shipment coordination, and cross-border documentation workflows.",
+    "metrics": [
+      { "value": "100%", "label": "Customs Compliance Focus" },
+      { "value": "24-48h", "label": "Typical Clearance Planning" },
+      { "value": "Africa", "label": "Regional Cross-Border Reach" }
+    ],
+    "tech": ["Customs Workflow Design", "IOR/EOR Support", "Logistics Ops Strategy", "Trade Documentation"],
+    "teaser": "Simplified import/export compliance and shipping operations for businesses expanding across Africa.",
+    "teaserService": "Customs Clearance & IOR/EOR Logistics"
+  },
+  {
+    "id": "cs-004",
+    "client": "Hawi Travels",
+    "industry": "Travel & Tourism",
+    "service": "Website Development, SEO, Digital Marketing & Graphic Design",
+    "summary": "Built a polished digital presence for Hawi Travels covering web design, on-page SEO, paid social and search promotion, and branded visual assets that helped the company present a more professional, trust-building online experience.",
+    "metrics": [
+      { "value": "Multi-Channel", "label": "Digital Growth Strategy" },
+      { "value": "+40%", "label": "Visibility Lift" },
+      { "value": "Stronger", "label": "Brand Positioning" }
+    ],
+    "tech": ["WordPress Development", "SEO", "Meta Ads", "Graphic Design", "Brand Assets"],
+    "teaser": "Unified the brand online with a conversion-focused website, local SEO, performance marketing, and creative design assets that improved visibility and bookings.",
+    "teaserService": "Web Development, Digital Marketing, SEO & Graphic Design"
+  },
+  {
+    "id": "cs-005",
+    "client": "Horizon Health Group",
+    "industry": "Healthcare & Diagnostics",
+    "service": "HIPAA/Data Protection Compliant Patient Portal",
+    "summary": "Engineered an encrypted patient booking, lab report delivery, and telemedicine platform with end-to-end audit logging and zero data leaks.",
+    "metrics": [
+      { "value": "45,000+", "label": "Monthly Active Patients" },
+      { "value": "85%", "label": "Reduction in Call Center Volume" },
+      { "value": "100%", "label": "Regulatory Compliance" }
+    ],
+    "tech": ["React", "TypeScript", "Python / FastAPI", "AWS KMS", "Docker"],
+    "teaser": "45,000+ monthly active patients with 85% reduction in call volume.",
+    "teaserService": "HIPAA-Compliant Telemedicine Portal"
+  },
+  {
+    "id": "cs-006",
+    "client": "Safari Luxury Safaris",
+    "industry": "Hospitality & Tourism",
+    "service": "SEO Dominance & Global Meta Ads",
+    "summary": "Ranked #1 on Google for high-value safari keywords in the US and UK markets while scaling multi-currency dynamic checkout bookings.",
+    "metrics": [
+      { "value": "+420%", "label": "Organic Search Revenue" },
+      { "value": "5.4x", "label": "Return on Ad Spend (ROAS)" },
+      { "value": "Top 3", "label": "Google Rankings for 150+ Keywords" }
+    ],
+    "tech": ["Technical SEO", "Google Ads", "Content Marketing", "Stripe Multi-Currency"],
+    "teaser": "+420% increase in international direct booking revenue.",
+    "teaserService": "SEO Dominance & Global Meta Ads"
+  },
+  {
+    "id": "cs-007",
+    "client": "Nairobi Financial Services",
+    "industry": "Fintech & Wealth",
+    "service": "Managed IT Infrastructure & Zero-Trust Security",
+    "summary": "Migrated 150+ staff to zero-trust cloud infrastructure, deployed immutable air-gapped backups, and thwarted 100% of malicious phishing attempts.",
+    "metrics": [
+      { "value": "0", "label": "Security Breaches in 3 Years" },
+      { "value": "< 10 min", "label": "Average Support Resolution" },
+      { "value": "99.99%", "label": "Network Uptime" }
+    ],
+    "tech": ["Managed IT", "Cisco Meraki", "Microsoft Azure", "EDR Sentinel"]
+    ,
+    "teaser": "Zero breaches in 3 years with 99.99% network uptime.",
+    "teaserService": "Managed IT & Zero-Trust Security"
+  },
+  {
+    "id": "cs-008",
+    "client": "Maji Agro Supplies",
+    "industry": "Agriculture & AgriTech",
+    "service": "Farm Management ERP & Mobile Field App",
+    "summary": "Built a custom farm management system with offline-first mobile app for field agents, inventory tracking for seed and fertilizer distribution, and SMS alerts for 5,000+ smallholder farmers across the Rift Valley region.",
+    "metrics": [
+      { "value": "5,000+", "label": "Smallholder Farmers Reached" },
+      { "value": "90%", "label": "Offline Data Sync Success" },
+      { "value": "30%", "label": "Yield Increase Reported" }
+    ],
+    "tech": ["React Native", "Node.js", "PostgreSQL", "Twilio SMS", "AWS"],
+    "teaser": "Farm management ERP with offline-first mobile app for 5,000+ smallholder farmers.",
+    "teaserService": "AgriTech Farm Management System"
+  },
+  {
+    "id": "cs-009",
+    "client": "Kenya EduConnect",
+    "industry": "EdTech & Education",
+    "service": "E-Learning Platform & Student Portal",
+    "summary": "Developed a nationwide e-learning portal serving 20,000+ students with video course delivery, online examinations, digital certificates, and payment integration for school fees across 50 partner institutions.",
+    "metrics": [
+      { "value": "20,000+", "label": "Students Enrolled" },
+      { "value": "50+", "label": "Partner Institutions" },
+      { "value": "99.5%", "label": "Platform Uptime" }
+    ],
+    "tech": ["Next.js", "React", "PostgreSQL", "Stripe", "M-Pesa Daraja API"],
+    "teaser": "Nationwide e-learning portal serving 20,000+ students across 50 partner schools.",
+    "teaserService": "EdTech E-Learning Platform"
+  }
+]

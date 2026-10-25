@@ -1,0 +1,62 @@
+[
+  {
+    "id": "t-001",
+    "quote": "Cyber Savvy Pro replaced twelve departmental spreadsheets with one custom dispatch ERP in under three months. Dispatch turnaround is 65% faster, driver SMS routing is fully automated, and we have saved KSh 23M in annual overhead. Sam personally oversaw every sprint.",
+    "name": "Daniel Kariuki",
+    "role": "Operations Director",
+    "company": "Apex Logistics Ltd",
+    "avatar": "DK",
+    "color": "bg-indigo-600",
+    "metricsHighlight": "65% Faster Dispatch"
+  },
+  {
+    "id": "t-002",
+    "quote": "The encrypted patient portal Sam's team engineered handles 45,000+ monthly appointments, lab report delivery, and telemedicine — with full audit logging and zero data leaks. Our call centre volume dropped by 85% in the first quarter.",
+    "name": "Dr. Wanjiru Kamau",
+    "role": "Medical Director",
+    "company": "Horizon Health Group",
+    "avatar": "WK",
+    "color": "bg-violet-600",
+    "metricsHighlight": "85% Fewer Calls"
+  },
+  {
+    "id": "t-003",
+    "quote": "Within six months Cyber Savvy Pro had us ranking #1 on Google for our highest-value safari keywords in the US and UK markets. Direct international bookings grew 420%, and our Meta ads now return 5.4x on ad spend.",
+    "name": "Emma Whitfield",
+    "role": "Founder & Managing Director",
+    "company": "Safari Luxury Safaris",
+    "avatar": "EW",
+    "color": "bg-emerald-600",
+    "metricsHighlight": "+420% Booking Revenue"
+  },
+  {
+    "id": "t-004",
+    "quote": "The offline-first mobile app they built lets our field agents record data across the Rift Valley with no network coverage — 90% of records sync successfully once connectivity returns. 5,000+ smallholder farmers are now managed through one system instead of paper ledgers.",
+    "name": "Peter Mwangi",
+    "role": "Programs Manager",
+    "company": "Maji Agro Supplies",
+    "avatar": "PM",
+    "color": "bg-blue-600",
+    "metricsHighlight": "5,000+ Farmers Onboarded"
+  },
+  {
+    "id": "t-005",
+    "quote": "Kenya EduConnect now serves 20,000+ students across 50 partner institutions with video courses, online examinations, and M-Pesa school-fee payments — all on one platform running at 99.5% uptime. Their engineering standards are genuinely world-class.",
+    "name": "Alice Nduta",
+    "role": "Director",
+    "company": "Kenya EduConnect",
+    "avatar": "AN",
+    "color": "bg-pink-600",
+    "metricsHighlight": "20,000+ Students Served"
+  },
+  {
+    "id": "t-006",
+    "quote": "From the new website and local SEO to our brand assets and social campaigns, Cyber Savvy Pro rebuilt our entire digital presence. Visibility is up 40%, bookings flow in directly instead of through third parties, and clients constantly compliment how professional we now look online.",
+    "name": "Grace Achieng",
+    "role": "Chief Executive Officer",
+    "company": "Hawi Travels",
+    "avatar": "GA",
+    "color": "bg-amber-600",
+    "metricsHighlight": "+40% Visibility Lift"
+  }
+]
